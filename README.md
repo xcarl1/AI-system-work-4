@@ -37,8 +37,8 @@ The results can help determine the most efficient communication strategy under v
 ```json
 {
   "info": "《三十六计·假痴不癫》",
-  "modern": "宁肯装作无知而不采取行动，不可装作假聪明而轻易妄动。",
   "classical": "宁伪作不知不为，不伪作假知妄为。"
+  "modern": "宁肯装作无知而不采取行动，不可装作假聪明而轻易妄动。"
 }
 
 
