@@ -12,4 +12,4 @@ python -m torch.distributed.run \
     --train_epochs 2 \
     --lr 1e-5 \
     --log_dir t5_translation_logs_Gloo_CPUs \
-    --save_path "/root/siton-data-412581749c3f4cfea0d7c972b8742057/proj/work_4_xzp/checkpoints/t5_Gloo_CPUs" \
+    --save_path "checkpoints/t5_Gloo_CPUs" \
