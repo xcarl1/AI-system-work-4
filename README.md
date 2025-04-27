@@ -1,6 +1,6 @@
 # AI-system-work-4
 
-AI system课程实验4 分布式训练
+西安交通大学人工智能试验班大二 AI system课程实验4 分布式训练 参考代码
 
 A fine-tuned T5-based model for bidirectional translation between Chinese classical and modern texts. The project also aims to **evaluate the effectiveness of different distributed communication backends (MPI / Gloo / NCCL)** using the [`Langboat/mengzi-t5-base`](https://huggingface.co/Langboat/mengzi-t5-base) model and the [`xmj2002/Chinese_modern_classical`](https://huggingface.co/datasets/xmj2002/Chinese_modern_classical) dataset.
 
